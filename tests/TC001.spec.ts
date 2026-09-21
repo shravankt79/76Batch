@@ -8,6 +8,5 @@ test('@Smoke_Login_Logout', async ({ page })=>{
     await obj.openApplication();
     await obj.login();
     await obj.logout();
-    console.log("Login and Logout test completed successfully");
 });
 
