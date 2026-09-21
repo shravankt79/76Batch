@@ -8,6 +8,6 @@ test('@Smoke_Login_Logout', async ({ page })=>{
     await obj.openApplication();
     await obj.login();
     await obj.logout();
-    console.log("Testcase TC001 execution completed");
+    console.log("Testcase TC001 execution is completed");
 });
 
