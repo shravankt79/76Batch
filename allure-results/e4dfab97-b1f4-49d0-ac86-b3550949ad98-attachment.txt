@@ -1,0 +1,5 @@
+Application Opened 
+Login completed
+Logout completed
+Testcase TC001 execution is completed in GitHub
+pulled code to vscode and pushed to GitHub

@@ -9,6 +9,7 @@ test('@Smoke_Login_Logout', async ({ page })=>{
     await obj.login();
     await obj.logout();
     console.log("Testcase TC001 execution is completed in GitHub");
+    console.log("pulled code to vscode and pushed to GitHub");
  
 });
 
