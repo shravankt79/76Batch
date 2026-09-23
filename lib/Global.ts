@@ -9,9 +9,8 @@ export class global {
 public ulr : string = "https://sureshitacademy.in/hrms/login.php";
 public username : string = "sureshit";
 public password : string = "sureshit";
-public empfirstname : string = "hyderabad";
-public emplastname : string = "SureshIT";
-
+public empfirstname : string = "Dallas";
+public emplastname : string = "Shravan";
 
 //******Objects / Elements of Application *********/
 public textbox_loginname : string = "//input[@name='txtUserName']";
