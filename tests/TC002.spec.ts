@@ -17,4 +17,5 @@ test('@Regression_AddNewEmployee',async({page})=>{
    await obj.waitStmt();
    console.log("Add new employee is done -Edited in VScode");
    console.log("TC002 is modified in GitHub");
+   console.log("Add Employee verified from Github and executed")
 });
