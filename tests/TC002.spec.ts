@@ -15,4 +15,5 @@ test('@Regression_AddNewEmployee',async({page})=>{
    await obj.waitStmt();
    await obj.logout();
    await obj.waitStmt();
+   console.log("Add new employee is done -Edited in VScode");
 });
